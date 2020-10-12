@@ -31,7 +31,7 @@ public class primecount {
 			}
 	}
 		
-		//개수 출력
+		//개수 출력.... 
 		System.out.printf("소수 개수 : %d개\n", cnt);
 
 }
